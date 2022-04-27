@@ -1,3 +1,0 @@
-2022-04-28 05:27:57.243701Attempting to DOWNLOAD :  file name: DOWNLOAD-ERROR, file dont exist
-2022-04-28 05:28:59.895315ATTEMPING TO CHANGE:  file name :alice.txttojanus.txt
-2022-04-28 05:33:24.105557 DOWNLOAD RQ:  file name sent: alice.txt
