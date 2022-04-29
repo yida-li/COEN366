@@ -1,41 +1,41 @@
 # Test Cases
 
-# T1 : initialize server and client
+# T1 : Initialize server and client
 > > ![til](screenshots/s0.png)
 
 # T2 : Configure IP address and TCP port
 > > ![til](screenshots/s1.png)
 
-# T3 : initialize server and client
+# T3 : Initialize server and client
 > > ![til](screenshots/s3.png)
 
-# T4 : verify connection and functionality
+# T4 : Verify connection and functionality
 > > ![til](screenshots/s4.png)
 
-# T5 : client download alice.txt from server
+# T5 : Client download alice.txt from server
 > > ![til](screenshots/s5.png)
 
-# T6 : client tries to download something that is not in the server
+# T6 : Client tries to download something that is not in the server
 > > ![til](screenshots/s6.png)
 
-# T7 : client upload malice.txt to the server
+# T7 : Client upload malice.txt to the server
 > > ![til](screenshots/s7.png)
 
-# T8 : client change malice.txt on the server to janus.txt in the server
+# T8 : Client change malice.txt on the server to janus.txt in the server
 > > ![til](screenshots/s8.png)
 
-# T9 : client tries to change a non-existing file to another in the server
+# T9 : Client tries to change a non-existing file to another in the server
 > > ![til](screenshots/s9.png)
 
-# T10: client chance alice.txt to wonderland.txt in the server
+# T10: Client chance alice.txt to wonderland.txt in the server
 > > ![til](screenshots/s11.png)
 
 
-# T11: client re-uploads malice.txt to the server
+# T11: Client re-uploads malice.txt to the server
 > > ![til](screenshots/s13.png)
 > > ![til](screenshots/s14.png)
 
-# T12: client terminates connection with the server
+# T12: Client terminates connection with the server
 > > ![til](screenshots/s15.png)
 
 # Another Client
